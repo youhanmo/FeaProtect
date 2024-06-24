@@ -160,6 +160,7 @@ Again, you can experiment with the script we provided shell script.
 ### study
 
 The overall result is saved here named `study.png` 
+
 ![](images/study.png)
 
 
