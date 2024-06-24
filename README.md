@@ -178,9 +178,9 @@ The overall result is saved here named `RQ2_result.png` due to the limited paper
 ### RQ3
 
 The overall result is saved here named `RQ3_result.png` due to the limited paper space. Given the extensive number of the experiments, we have divided the table into two separate tables to facilitate your review. Please refer to these tables for a comprehensive understanding of the results.
-![](images/RQ3-1-7.png)
+![](images/rq3-1-7.png)
 
-![](images/RQ3-8-28.png)
+![](images/rq3-8-28.png)
 
 
 
